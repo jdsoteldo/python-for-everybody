@@ -1,0 +1,73 @@
+exercise 1:
+What is the function of the secondary memory in a computer?
+
+answer 1:
+Store information for the long term, even beyond power cycle.
+
+
+exercise 2:
+What is a program?
+
+answer 2:
+is a set of instructions given to the computer.
+
+
+exercise 3:
+What is the difference between a interpreter and a compiler?
+
+answer 3:
+A compiler is scans the entire program and translates it into machine code.
+The interpreter scans each line of the program one by one.
+
+question 4:
+which of the following contains "machine code"?
+a) python interpreter
+b) the keyboard
+c) python source file
+d) a word processing document
+
+answer 4:
+a
+
+question 5:
+whats wrong with this code?
+primt 'Hello World!'
+
+answer 5:
+the correct syntax (using python3) would be print('Hello World!')
+
+question 6:
+Where in the computer is a variable such as “x” stored after the following
+Python line finishes?
+x = 123
+
+answer 6:
+Main Memory
+
+
+question 7:
+what will the program print?
+x = 43
+x = x + 1
+print(x)
+
+answer 7:
+44
+
+exercise 8: Explain each of the following using an example of a human capability:
+(1) Central processing unit, (2) Main Memory, (3) Secondary Memory,
+(4) Input Device, and (5) Output Device. For ex- ample, “What is the human
+equivalent to a Central Processing Unit”?
+
+answer 8.1:
+CPU: would be the brain
+main memory: short term memory
+secondary memory: long term memory
+input: would be your ears
+output: your mouth while talking
+
+
+exercise 9: How do you fix a “Syntax Error”?
+
+answer 9:
+There is a "orthography" error on your code.
